@@ -1,6 +1,6 @@
 bl_info = {
     "name": "Simple VR Tools (OpenXR) – Presence+",
-    "author": "ChatGPT",
+    "author": "Levente Botos",
     "version": (1, 2, 0),
     "blender": (3, 0, 0),
     "location": "3D Viewport > N-Panel > VR",
